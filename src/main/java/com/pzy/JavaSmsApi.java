@@ -43,7 +43,7 @@ public class JavaSmsApi {
 	private static String ENCODING = "UTF-8";
 
 	// apikey
-	private final static String apikey = "66294025bb8f3df079be74b8fec7643d";
+	private final static String apikey = "";
 
 	public static boolean sendSms(String phoneNumber, String text) {
 		boolean result = false;
